@@ -1,0 +1,34 @@
+{
+  "name": "prettycoins",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/tiaanduplessis/prettycoins",
+    "type": "git"
+  },
+  "homepage": "https://github.com/tiaanduplessis/prettycoins",
+  "bugs": "https://github.com/tiaanduplessis/prettycoins",
+  "main": "index.js",
+  "bin": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "npm run format",
+    "format": "prettier-standard index.js",
+    "start": "npm run test"
+  },
+  "author": "tiaanduplessis <tiaanduplessis@hotmail.com>",
+  "devDependencies": {
+    "husky": "^0.14.3",
+    "prettier-standard": "^6.0.0"
+  },
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "cli-table": "^0.3.1",
+    "coinmarketcap-api": "^1.0.0",
+    "currency-convert": "^1.0.0",
+    "get-them-args": "^1.3.1"
+  }
+}
