@@ -57,6 +57,8 @@
 
 ## Install
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tiaanduplessis/prettycoins.svg)](https://greenkeeper.io/)
+
 ```sh
 $ npm install -g prettycoins
 # OR
