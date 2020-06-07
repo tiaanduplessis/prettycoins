@@ -25,7 +25,7 @@
     "prettier-standard": "^6.0.0"
   },
   "dependencies": {
-    "chalk": "^2.1.0",
+    "chalk": "^4.0.0",
     "cli-table": "^0.3.1",
     "coinmarketcap-api": "^1.0.0",
     "currency-convert": "^1.0.0",
