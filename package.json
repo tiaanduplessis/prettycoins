@@ -27,7 +27,7 @@
   "dependencies": {
     "chalk": "^2.1.0",
     "cli-table": "^0.3.1",
-    "coinmarketcap-api": "^1.0.0",
+    "coinmarketcap-api": "^3.1.0",
     "currency-convert": "^1.0.0",
     "get-them-args": "^1.3.1"
   }
